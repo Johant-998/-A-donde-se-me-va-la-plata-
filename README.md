@@ -2,7 +2,7 @@
 
 Service Blueprint interactivo de un asistente con IA en WhatsApp que convierte los movimientos de Nequi y del banco en un resumen semanal en lenguaje simple.
 
-**Ver la página:** https://johant-998.github.io/-a-donde-se-me-va-la-plata-/
+**Ver la página:** https://johant-998.github.io/-A-donde-se-me-va-la-plata-/
 
 ## Qué contiene
 
